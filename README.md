@@ -114,9 +114,6 @@ predicted: Goa is my favourite tourist destination
 
 Miscellaneous inputs:
 ```
-Input: हाय! म्हजें नांव सजल मांद्रेकर
-Output: High ! My name is Sajal Mandekar
-
 Input: हांव फार्मगुडीच्या गोंय अभियांत्रिकी महाविद्यालयाचो विद्यार्थी
 Output: I am a student of Goa Engineering College , farmgudi
 
