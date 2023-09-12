@@ -10,10 +10,11 @@ A Neural Machine Translator for Konkani to English Translations and vice-versa. 
 
 1. [Prerequisite](#Prerequisite)
 2. [Test translations using the saved model](#test-translations-using-the-saved-model)
-3. [Evaluation: Bleu Score](#evaluation-bleu-score)
-4. [Building BERT Vocabulary](#building-vocabulary)
-5. [Training model from scratch](#training-model-from-scratch)
-6. [Using Pretrained weights](#using-pretrained-weights)
+3. [Example Translations](#example-translations)
+4. [Evaluation: Bleu Score](#evaluation-bleu-score)
+5. [Building BERT Vocabulary](#building-vocabulary)
+6. [Training model from scratch](#training-model-from-scratch)
+7. [Using Pretrained weights](#using-pretrained-weights)
 
 
 ## Prerequisite
