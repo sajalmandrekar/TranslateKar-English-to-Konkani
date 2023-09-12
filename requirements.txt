@@ -1,0 +1,4 @@
+nltk==3.8.1
+tensorflow==2.11.*
+tensorflow-text
+python-dotenv==1.0.0

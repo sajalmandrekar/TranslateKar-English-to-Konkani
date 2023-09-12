@@ -1,0 +1,4 @@
+trained_models/*
+saved_models/*
+!trained_models/README.md
+!saved_models/README.md
