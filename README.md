@@ -15,6 +15,7 @@ A Neural Machine Translator for Konkani to English Translations and vice-versa. 
 5. [Building BERT Vocabulary](#building-vocabulary)
 6. [Training model from scratch](#training-model-from-scratch)
 7. [Using Pretrained weights](#using-pretrained-weights)
+8. [Terms and Conditions of use](#terms-and-conditions)
 
 
 ## Prerequisite
@@ -193,3 +194,33 @@ WEIGHTS_PATH=trained_models/T_BASE_EK_07_07/checkpoints/best_model.weights.hdf5
 
 * To start training run: `python3 transformer_train.py config.env`
 
+
+## TERMS AND CONDITIONS
+
+**Disclaimer: Use of this Service and Information**
+
+The following terms and conditions govern your use of this service ("TranslateKar"). By using the Service, you agree to these terms and conditions in full. If you disagree with these terms and conditions or any part of them, you must not use this Service.
+
+**No Liability for Accuracy of Information**
+
+The information provided by this Service is for general informational purposes only. While we strive to provide accurate and up-to-date information, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the Service or the information, products, services, or related graphics contained on the Service for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
+
+**No Professional Advice**
+
+The information provided by this Service is not intended as professional advice. You should not rely on the information as an alternative to professional advice. If you have any specific questions about any matter, you should consult a professional.
+
+**No Warranty**
+
+We do not warrant or represent:
+
+1. the completeness or accuracy of the information published on this Service;
+2. that the material on this Service is up to date; or
+3. that the Service or any service on the Service will remain available.
+
+**Limitations of Liability**
+
+In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this Service.
+
+**Links to Other Websites**
+
+Through this Service, you may be able to link to other websites which are not under our control. We have no control over the nature, content, and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
